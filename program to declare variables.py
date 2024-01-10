@@ -1,3 +1,5 @@
+#python program to declare variables
+
 mynumber = 3
 print(mynumber)
 
